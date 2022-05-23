@@ -17,7 +17,7 @@ func main() {
 	fmt.Printf("Hi, welcome to %v booking application \n", conferenceName)
 	fmt.Println("We have total of ", conferenceTickets, "tickets and", remainingTickets, "are still available")
 
-	fmt.Println("Book your tickets in here:")
+	fmt.Println("Book your tickets in here for:")
 
 	fmt.Println(conferenceName)
 
